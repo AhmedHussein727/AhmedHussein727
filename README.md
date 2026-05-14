@@ -1,16 +1,67 @@
-## Hi there 👋
+# Backend .NET Developer 🚀
 
-<!--
-**AhmedHussein727/AhmedHussein727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Ahmed Hussein
 
-Here are some ideas to get you started:
+ASP.NET Core Backend Developer | Building scalable RESTful APIs using C#, EF Core, SQL Server & Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Specialized in ASP.NET Core Backend Development
+* 🧠 Passionate about scalable systems & clean architecture
+* 🔥 Interested in Backend Engineering & System Design
+
+---
+
+## ⚙️ Tech Stack
+
+* ASP.NET Core
+* C#
+* Entity Framework Core
+* SQL Server
+* LINQ
+* JWT Authentication
+* Redis Caching
+* Docker
+* Git & GitHub
+* Clean Architecture
+* Onion Architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Web API
+
+* ASP.NET Core Web API
+* Stripe Payment Integration
+* Redis Caching
+* JWT Authentication
+* Clean Architecture
+* Repository & Specification Patterns
+
+### 🦷 Dentify System
+
+Dental platform connecting patients with dental students including:
+
+* Case Management
+* Treatment Requests
+* Reports & Ratings
+* Chat & Appointments
+
+### 🏋️ Gym Management System
+
+ASP.NET MVC application for:
+
+* Membership Management
+* Attendance Tracking
+* Trainer Management
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/ahmed-hussein001
+* GitHub: https://github.com/AhmedHussein727
