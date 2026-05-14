@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Ahmed%20Hussein&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -112,4 +112,4 @@ ASP.NET MVC application for gym management.
 <p align="center">
   💻 Always learning and building scalable backend systems with .NET 🚀
 </p>
-```
+
